@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Tongtong Liang / Homepage"
+title                    : "Tongtong Liang's Homepage"
 title_separator          : "-"
 name                     : &name "Tongtong Liang"
 description              : &description "Tongtong Liang's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Tongtong Liang"
   # pronouns         : # example: "she/her"  
-  # bio              : "Short biography for the left-hand sidebar"
+  bio              : "ttliang@ucsd.edu"
   location         : "California"
   employer         : "University of California, San Diego"
   # uri              : # URL
