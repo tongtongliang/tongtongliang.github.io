@@ -13,15 +13,17 @@ Before turning to machine learning, I worked in algebraic topology and algebraic
 
 Publications and Preprints
 ======
-<span style="color:#182B49; font-weight:600;">
+
+<span style="color:#00629B; font-weight:600;">
 Generalization Below the Edge of Stability: The Role of Data Geometry
 </span>  
 **Tongtong Liang**, Alexander Cloninger, Rahul Parhi, Yu-Xiang Wang  
 *Manuscript* · [arXiv](https://arxiv.org/abs/2510.18120)
 
-<span style="color:#182B49; font-weight:600;">
+<span style="color:#00629B; font-weight:600;">
 Stable Minima of ReLU Neural Networks Suffer from the Curse of Dimensionality: The Neural Shattering Phenomenon
 </span>  
 **Tongtong Liang**, Dan Qiao, Yu-Xiang Wang, Rahul Parhi  
 *NeurIPS 2025* <span style="color:#C69214; font-size: 12pt;">Spotlight</span> · [arXiv](https://arxiv.org/abs/2506.20779)
+
 
