@@ -1,7 +1,6 @@
 ---
 title: "Papers"
 permalink: /papers/
-layout: single
 author_profile: true
 ---
 
