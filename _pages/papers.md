@@ -76,7 +76,7 @@ author_profile: true
 
 <div class="item">
   <div class="title">
-    <a href="/assets/papers/QuillenSurvey.pdf" style="color:#1E90FF; text-decoration:none; font-weight:600;">
+    <a href="/files/QuillenSurvey.pdf" style="color:#1E90FF; text-decoration:none; font-weight:600;">
       Power Operations and Formal Group Laws in Complex Cobordism Theory
     </a>
   </div>
@@ -98,7 +98,7 @@ author_profile: true
 
 <div class="item">
   <div class="title">
-    <a href="/assets/papers/ThomSurvey.pdf" style="color:#1E90FF; text-decoration:none; font-weight:600;">
+    <a href="/files/ThomSurvey.pdf" style="color:#1E90FF; text-decoration:none; font-weight:600;">
       Obstructions to Realizing Homology Classes by Manifolds
     </a>
   </div>
