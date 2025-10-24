@@ -35,7 +35,7 @@ mathjax: true
 
 ## Notes {#notes}
 - ### <span style="color:#1E90FF; font-weight:bold;">Localization Sequences of Higher Chow Groups of a DVR</span>  
-  Tongtong Liang · 2022  
+  Tongtong Liang · 2024  
   <details>
     <summary style="font-weight:bold; color:#1E90FF; cursor:pointer;">Abstract / Outline</summary>
     <p>
@@ -82,7 +82,7 @@ mathjax: true
   [<span style="color:#1E90FF;">PDF</span>](/files/MotivicMultiplicaitveStructures.pdf)
 
 - ### <span style="color:#1E90FF; font-weight:bold;">Power Operations and Formal Group Laws in Complex Cobordism Theory</span>  
-  Tongtong Liang · 2022  
+  Tongtong Liang · 2023  
   <details>
    <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
     <p style="margin-top: 10px; padding-left: 15px;">
