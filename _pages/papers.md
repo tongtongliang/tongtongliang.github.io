@@ -40,7 +40,7 @@ mathjax: true
   <details>
    <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
     <p style="margin-top: 10px; padding-left: 15px;">
-      A survey of Quillen’s approach to complex cobordism, emphasizing how power operations and Landweber–Novikov operations govern the formal group law of \(MU\). It sketches a Riemann–Roch–type formula with fixed-point localization, a homotopical construction via an \(H^\infty\) structure on \(MU\), and a promotion of a lemma of Rudyak from mod-2 to mod-\(p\).
+      A survey of Quillen’s approach to complex cobordism, emphasizing how power operations and Landweber–Novikov operations govern the formal group law of \(MU\). It sketches a Riemann–Roch–type formula with fixed-point localization, a homotopical construction via an \(H_\infty\) structure on \(MU\), and a promotion of a lemma of Rudyak from mod-2 to mod-\(p\).
     </p>
   </details>  
   [<span style="color:#1E90FF;">PDF</span>](/files/QuillenSurvey.pdf)
@@ -50,7 +50,7 @@ mathjax: true
   <details>
     <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
     <p style="margin-top: 10px; padding-left: 15px;">
-      A survey of Thom’s solution to the Steenrod problem: realizing \(H_k(X)\) classes by submanifolds via a lifting problem \(X\to MO(k)\) (or \(MSO(k)\)). It develops \(H^\*(MO(k))\) with Steenrod action, uses Wu’s formula and admissible Sq-bases, applies Whitehead’s theorem to identify the relevant truncations, and derives the dimension bound \(k\le n/2\) and the unoriented case for finite polyhedra.
+      A survey of Thom’s solution to the Steenrod problem: realizing \(H_k(X)\) classes by submanifolds via a lifting problem \(X\to MO(k)\) (or \(MSO(k)\)). It develops \(H_*(MO(k))\) with Steenrod action, uses Wu’s formula and admissible Sq-bases, applies Whitehead’s theorem to identify the relevant truncations, and derives the dimension bound \(k\le n/2\) and the unoriented case for finite polyhedra.
     </p>
   </details>  
   [<span style="color:#1E90FF;">PDF</span>](/files/ThomSurvey.pdf)
