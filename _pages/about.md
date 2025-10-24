@@ -11,7 +11,7 @@ I am a PhD student in the Department of Mathematics at [UC San Diego](https://uc
 
 Before turning to machine learning, I worked in algebraic topology and algebraic geometry, particularly in motivic homotopy theory. I received both my B.S. and M.S. degrees in Mathematics from [Southern University of Science and Technology](https://www.sustech.edu.cn/en/), where I was advised by Prof. [Yifei Zhu](https://yifeizhu.github.io/).
 
-Publications and Preprints
+Papers
 ======
 
 <span style="color:#00629B; font-weight:600;">
