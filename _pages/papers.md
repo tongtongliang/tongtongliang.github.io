@@ -37,24 +37,9 @@ mathjax: true
 - ### <span style="color:#1E90FF; font-weight:bold;">Localization Sequences of Higher Chow Groups of a DVR</span>  
   Tongtong Liang · 2024  
   <details>
-    <summary style="font-weight:bold; color:#1E90FF; cursor:pointer;">Abstract / Outline</summary>
+    <summary style="font-weight:bold; color:#1E90FF; cursor:pointer;">Abstract</summary>
     <p>
-      This note rederives the boundary map in Levine’s localization sequence for a discrete valuation
-      field \((K,v)\) with valuation ring \(\mathcal O_K\) and residue field \(k\):
-      \[
-      \partial:\ \mathrm{CH}^n(\mathrm{Spec}\,K,n)\longrightarrow \mathrm{CH}^{n-1}(\mathrm{Spec}\,k,n-1).
-      \]
-      Using the Nesterenko–Suslin/Totaro identification \(\mathrm{CH}^n(\mathrm{Spec}\,F,n)\cong K^M_n(F)\),
-      it is shown that \(\partial\) coincides with the Milnor \(K\)-theory residue map
-      \(\partial_v:K^M_n(K)\to K^M_{n-1}(k)\).
-      The proof gives an explicit cycle-level computation: a symbol \(\{t,u_2,\dots,u_n\}\) corresponds to
-      a zero-cycle \(W_u\subset \Delta^n_K\); after taking closure in \(\Delta^n_{\mathcal O_K}\), one checks
-      face intersections in two cases \(v(\lambda_u)=0\) and \(v(\lambda_u)>0\), recovering
-      \(\{ \overline{u}_2,\dots,\overline{u}_n\}\) or \(0\) respectively.
-      As a consequence, \(\mathrm{CH}^n(\mathcal O_K,n)=\ker(\partial_v)\) and
-      \(\mathrm{CH}^n(\mathcal O_K,n-1)=\mathrm{coker}(\partial_v)=0\); an application reformulates
-      these results in motivic cohomology, yielding for \(p\)-adic \(K\) the comparison
-      \(H^{i+1}(\mathcal O_K;\mathbb F_p(j-1))\cong H^{i+1}(K;\mathbb F_p(j))\) when \(i>j\). :contentReference[oaicite:0]{index=0}
+     Levine gave an extension of Bloch's localization theorem for the higher Chow groups to schemes of finite type over a Dedekind domain.In particular, given a discrete valuation field  \((K,v)\) with the valuation ring \(\mathcaL{O}_K\) and the residue field \(k\), Levine's localization sequence induces a boundary map \(\mathrm{CH}^n(\spec K, n)\xrightarrow{\partial}\mathrm{CH}^{n-1}(\spec k,n-1)\). Using Nesterenko-Suslin's identification \(\mathrm{CH}^n(\spec F; n)\cong K^M_n(F)\) for any field \(F\), we will show that this boundary map coincides with the residue boundary map \(\partial_v\) in the Milnor K-theories.
     </p>
   </details>  
   [<span style="color:#1E90FF;">PDF</span>](/files/HigherChowGroupsOfDVR.pdf)
@@ -63,20 +48,10 @@ mathjax: true
 - ### <span style="color:#1E90FF; font-weight:bold;">Motivic Multiplicative Structures</span>  
   Tongtong Liang · 2024  
   <details>
-    <summary style="font-weight:bold; color:#1E90FF; cursor:pointer;">Abstract / Outline</summary>
+    <summary style="font-weight:bold; color:#1E90FF; cursor:pointer;">Abstract</summary>
     <p>
       A reading-style note on multiplicative structures in motivic homotopy theory centered around
-      <em>norms</em> (multiplicative transfer) \(p_\otimes\). It explains how, for an integral universally
-      open morphism \(p:T\to S\), one constructs a symmetric monoidal functor
-      \(p_\otimes:\mathsf{H}^\bullet(T)\to \mathsf{H}^\bullet(S)\) that preserves sifted colimits and
-      extends \(p_+\), and tracks this construction across levels:
-      unbased/based presheaves \(\to\) motivic spaces \(\to\) motivic spectra.
-      The note then organizes the coherence data of motivic norms via span categories
-      (comparing “\(E_\infty\)-operadic” structure vs. “universal normed” structure),
-      and introduces the <em>category of normed motivic spectra</em> with its functorial properties.
-      A final section recalls norms in equivariant homotopy theory for comparison, and an Appendix
-      reviews Galois descent (vector spaces, quasi-coherent sheaves, schemes) to support base-change
-      considerations in the motivic context.
+      <em>norms</em> (multiplicative transfer) \(p_\otimes\). 
     </p>
   </details>  
   [<span style="color:#1E90FF;">PDF</span>](/files/MotivicMultiplicaitveStructures.pdf)
