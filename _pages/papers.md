@@ -39,7 +39,7 @@ mathjax: true
   <details>
     <summary style="font-weight:bold; color:#1E90FF; cursor:pointer;">Abstract</summary>
     <p>
-     Levine gave an extension of Bloch's localization theorem for the higher Chow groups to schemes of finite type over a Dedekind domain.In particular, given a discrete valuation field  \((K,v)\) with the valuation ring \(\mathcaL{O}_K\) and the residue field \(k\), Levine's localization sequence induces a boundary map \(\mathrm{CH}^n(\spec K, n)\xrightarrow{\partial}\mathrm{CH}^{n-1}(\spec k,n-1)\). Using Nesterenko-Suslin's identification \(\mathrm{CH}^n(\spec F; n)\cong K^M_n(F)\) for any field \(F\), we will show that this boundary map coincides with the residue boundary map \(\partial_v\) in the Milnor K-theories.
+     Levine gave an extension of Bloch's localization theorem for the higher Chow groups to schemes of finite type over a Dedekind domain.In particular, given a discrete valuation field  \((K,v)\) with the valuation ring \(\mathcal{O}_K\) and the residue field \(k\), Levine's localization sequence induces a boundary map \(\mathrm{CH}^n(\mathrm{Spec} K, n)\xrightarrow{\partial}\mathrm{CH}^{n-1}(\mathrm{Spec} k,n-1)\). Using Nesterenko-Suslin's identification \(\mathrm{CH}^n(\mathrm{Spec} F; n)\cong K^M_n(F)\) for any field \(F\), we will show that this boundary map coincides with the residue boundary map \(\partial_v\) in the Milnor K-theories.
     </p>
   </details>  
   [<span style="color:#1E90FF;">PDF</span>](/files/HigherChowGroupsOfDVR.pdf)
