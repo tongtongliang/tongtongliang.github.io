@@ -85,12 +85,12 @@ author_profile: true
     <summary>Abstract / Outline</summary>
     <div class="abs">
       A survey of Quillen’s elementary approach to complex cobordism, focusing on how power operations
-      and Landweber–Novikov operations interact to control the formal group law for \(MU\).
+      and Landweber–Novikov operations interact to control the formal group law for \\(MU\\).
       The note streamlines notation, clarifies arguments in Quillen’s papers, and highlights two ideas:
       a Riemann–Roch–type formula with fixed-point localization that links cobordism power operations
       to Landweber–Novikov operations, and a homotopical construction of power operations via an
-      \(H^\infty\)-structure on \(MU\). It also promotes a lemma of Rudyak from mod-2 to mod-\(p\) to prove
-      a technical step toward the structure theorem, showing \(U^*(X)\) is generated over the coefficient
+      \\(H^\infty\\)-structure on \\(MU\\). It also promotes a lemma of Rudyak from mod-2 to mod-\\(p\\) to prove
+      a technical step toward the structure theorem, showing \\(U^*(X)\\) is generated over the coefficient
       ring determined by the formal group law.
     </div>
   </details>
@@ -107,10 +107,10 @@ author_profile: true
     <summary>Abstract / Outline</summary>
     <div class="abs">
       A survey of Thom’s solution to the Steenrod problem: translating the realization of a class
-      in \(H_k(X)\) by a submanifold into a homotopy lifting problem \(X \to MO(k)\) (or \(MSO(k)\) in
-      the oriented case). The note develops the cohomology of \(MO(k)\) with Steenrod algebra action,
+      in \\(H_k(X)\\) by a submanifold into a homotopy lifting problem \\(X \to MO(k)\\) (or \\(MSO(k)\\) in
+      the oriented case). The note develops the cohomology of \\(MO(k)\\) with Steenrod algebra action,
       uses Wu’s formula and admissible Sq-bases, applies Whitehead’s theorem to identify the relevant
-      Postnikov truncations, and derives the dimension bounds (e.g., realizability when \(k \le n/2\))
+      Postnikov truncations, and derives the dimension bounds (e.g., realizability when \\(k \le n/2\\))
       and a proof of the unoriented Steenrod theorem for finite polyhedra via embeddings and retracts.
     </div>
   </details>
