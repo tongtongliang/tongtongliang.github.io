@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 
 ---
-I am a PhD student in Department of Mathematics at [UC San Diego](https://ucsd.edu/) (since 2023). My primary research objective is to develop deep learning theory that provides practical insights and guidance with particular focus on understanding how inductive bias of optimization algorithms and model architecture help generalization. I am currently working with Prof. [Alex Cloninger](https://sites.google.com/ucsd.edu/alexandercloninger/home), Prof. [Rahul Parhi](https://sparsity.ucsd.edu/rahul/) and Prof. [Yu-Xiang Wang](https://cseweb.ucsd.edu/~yuxiangw/) on this topic. 
+I am a PhD student in the Department of Mathematics at [UC San Diego](https://ucsd.edu/) (since 2023). My primary research objective is to develop deep learning theory that provides practical insights and guidance with particular focus on understanding how inductive bias of optimization algorithms and model architecture help generalization. I am currently working with Prof. [Alex Cloninger](https://sites.google.com/ucsd.edu/alexandercloninger/home), Prof. [Rahul Parhi](https://sparsity.ucsd.edu/rahul/) and Prof. [Yu-Xiang Wang](https://cseweb.ucsd.edu/~yuxiangw/) on this topic. 
 
 Before turning to machine learning, I worked in algebraic topology and algebraic geometry, particularly in motivic homotopy theory. I received both my B.S. and M.S. degrees in Mathematics from [Southern University of Science and Technology](https://www.sustech.edu.cn/en/), where I was advised by Prof. [Yifei Zhu](https://yifeizhu.github.io/).
 
