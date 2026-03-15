@@ -36,7 +36,7 @@ mathjax: true
 
 - ### <span style="color:#1E90FF; font-weight:bold;">Generalization Below the Edge of Stability: The Role of Data Geometry</span>  
   **Tongtong Liang**, Alexander Cloninger, Rahul Parhi, Yu-Xiang Wang  
-  *ICLR 2026* · 2025  
+  *ICLR 2026* 
   <details>
     <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
     <p style="margin-top: 10px; padding-left: 15px;">
@@ -47,7 +47,7 @@ mathjax: true
 
 - ### <span style="color:#1E90FF; font-weight:bold;">Stable Minima of ReLU Neural Networks Suffer from the Curse of Dimensionality: The Neural Shattering Phenomenon</span>  
   **Tongtong Liang**, Dan Qiao, Yu-Xiang Wang, Rahul Parhi  
-  <em>NeurIPS 2025 (<span style="color:#FF4500; font-weight:bold;">Spotlight</span>)</em> · 2025  
+  <em>NeurIPS 2025 (<span style="color:#FF4500; font-weight:bold;">Spotlight</span>)</em>
   <details>
    <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
     <p style="margin-top: 10px; padding-left: 15px;">
