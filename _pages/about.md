@@ -13,12 +13,25 @@ Before turning to machine learning, I worked in algebraic topology and algebraic
 
 Papers
 ======
+<span style="color:#00629B; font-weight:600;">
+IsoCompute Playbook: Optimally Scaling Sampling Compute for LLM RL
+</span>  
+Zhoujun Cheng, Yutao Xie, Yuxiao Qu, Amrith Setlur, Shibo Hao, Varad Pimpalkhute, **Tongtong Liang**, Feng Yao, Zhengzhong Liu, Eric Xing, Virginia Smith, Ruslan Salakhutdinov, Zhiting Hu, Taylor Killian, Aviral Kumar  
+*Manuscript* · [arXiv](https://arxiv.org/abs/2603.12151)
+<span style="color:#00629B; font-weight:600;">
+
 
 <span style="color:#00629B; font-weight:600;">
+The Inductive Bias of Convolutional Neural Networks: Locality and Weight Sharing Reshape Implicit Regularization
+</span>  
+**Tongtong Liang**, Esha Singh, Rahul Parhi, Alexander Cloninger, Yu-Xiang Wang  
+*Manuscript* · [arXiv](https://arxiv.org/abs/2603.04807)
+<span style="color:#00629B; font-weight:600;">
+  
 Generalization Below the Edge of Stability: The Role of Data Geometry
 </span>  
 **Tongtong Liang**, Alexander Cloninger, Rahul Parhi, Yu-Xiang Wang  
-*Manuscript* · [arXiv](https://arxiv.org/abs/2510.18120)
+*ICLR 2026* · [arXiv](https://arxiv.org/abs/2510.18120)
 
 <span style="color:#00629B; font-weight:600;">
 Stable Minima of ReLU Neural Networks Suffer from the Curse of Dimensionality: The Neural Shattering Phenomenon
