@@ -8,7 +8,7 @@ mathjax: true
 [Preprints](#preprints) · [Publications](#publications) · [Notes](#notes)
 
 ## Preprints {#preprints}
- - ### <span style="color:#1E90FF; font-weight:bold;">IsoCompute Playbook: Optimally Scaling Sampling Compute for LLM RL</span>  
+- ### <span style="color:#1E90FF; font-weight:bold;">IsoCompute Playbook: Optimally Scaling Sampling Compute for LLM RL</span>  
   Zhoujun Cheng, Yutao Xie, Yuxiao Qu, Amrith Setlur, Shibo Hao, Varad Pimpalkhute, **Tongtong Liang**, Feng Yao, Zhengzhong Liu, Eric Xing, Virginia Smith, Ruslan Salakhutdinov, Zhiting Hu, Taylor Killian, Aviral Kumar  
   *Manuscript* · 2026  
   <details>
