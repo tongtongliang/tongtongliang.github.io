@@ -27,7 +27,8 @@ The Inductive Bias of Convolutional Neural Networks: Locality and Weight Sharing
 **Tongtong Liang**, Esha Singh, Rahul Parhi, Alexander Cloninger, Yu-Xiang Wang  
 *Manuscript* · [arXiv](https://arxiv.org/abs/2603.04807)
 <span style="color:#00629B; font-weight:600;">
-  
+
+<span style="color:#00629B; font-weight:600;">  
 Generalization Below the Edge of Stability: The Role of Data Geometry
 </span>  
 **Tongtong Liang**, Alexander Cloninger, Rahul Parhi, Yu-Xiang Wang  
