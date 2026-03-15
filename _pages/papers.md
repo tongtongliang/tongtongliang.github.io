@@ -8,9 +8,18 @@ mathjax: true
 [Preprints](#preprints) · [Publications](#publications) · [Notes](#notes)
 
 ## Preprints {#preprints}
-
-- ### <span style="color:#1E90FF; font-weight:bold;">The Inductive Bias of Convolutional Neural Networks: Locality and Weight Sharing Reshape Implicit Regularization
-</span>  
+ - ### <span style="color:#1E90FF; font-weight:bold;">IsoCompute Playbook: Optimally Scaling Sampling Compute for LLM RL</span>  
+  Zhoujun Cheng, Yutao Xie, Yuxiao Qu, Amrith Setlur, Shibo Hao, Varad Pimpalkhute, **Tongtong Liang**, Feng Yao, Zhengzhong Liu, Eric Xing, Virginia Smith, Ruslan Salakhutdinov, Zhiting Hu, Taylor Killian, Aviral Kumar  
+  *Manuscript* · 2026  
+  <details>
+    <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
+    <p style="margin-top: 10px; padding-left: 15px;">
+      While scaling laws guide compute allocation for LLM pre-training, analogous prescriptions for reinforcement learning (RL) post-training of large language models (LLMs) remain poorly understood. We study the compute-optimal allocation of sampling compute for on-policy RL methods in LLMs, framing scaling as a compute-constrained optimization over three resources: parallel rollouts per problem, number of problems per batch, and number of update steps. We find that the compute-optimal number of parallel rollouts per problem increases predictably with compute budget and then saturates. This trend holds across both easy and hard problems, though driven by different mechanisms: solution sharpening on easy problems and coverage expansion on hard problems. We further show that increasing the number of parallel rollouts mitigates interference across problems, while the number of problems per batch primarily affects training stability and can be chosen within a broad range. Validated across base models and data distributions, our results recast RL scaling laws as prescriptive allocation rules and provide practical guidance for compute-efficient LLM RL post-training.
+    </p>
+  </details>  
+  [<span style="color:#1E90FF;">arXiv</span>](https://arxiv.org/abs/2603.12151)
+  
+- ### <span style="color:#1E90FF; font-weight:bold;">The Inductive Bias of Convolutional Neural Networks: Locality and Weight Sharing Reshape Implicit Regularization</span>  
   **Tongtong Liang**, Esha Singh, Rahul Parhi, Alexander Cloninger, Yu-Xiang Wang  
   *Manuscript* · 2026  
   <details>
@@ -21,17 +30,7 @@ mathjax: true
   </details>  
   [<span style="color:#1E90FF;">arXiv</span>](https://arxiv.org/abs/2603.04807)
   
- - ### <span style="color:#1E90FF; font-weight:bold;">IsoCompute Playbook: Optimally Scaling Sampling Compute for LLM RL
-</span>  
-  Zhoujun Cheng, Yutao Xie, Yuxiao Qu, Amrith Setlur, Shibo Hao, Varad Pimpalkhute, **Tongtong Liang**, Feng Yao, Zhengzhong Liu, Eric Xing, Virginia Smith, Ruslan Salakhutdinov, Zhiting Hu, Taylor Killian, Aviral Kumar  
-  *Manuscript* · 2026  
-  <details>
-    <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
-    <p style="margin-top: 10px; padding-left: 15px;">
-      While scaling laws guide compute allocation for LLM pre-training, analogous prescriptions for reinforcement learning (RL) post-training of large language models (LLMs) remain poorly understood. We study the compute-optimal allocation of sampling compute for on-policy RL methods in LLMs, framing scaling as a compute-constrained optimization over three resources: parallel rollouts per problem, number of problems per batch, and number of update steps. We find that the compute-optimal number of parallel rollouts per problem increases predictably with compute budget and then saturates. This trend holds across both easy and hard problems, though driven by different mechanisms: solution sharpening on easy problems and coverage expansion on hard problems. We further show that increasing the number of parallel rollouts mitigates interference across problems, while the number of problems per batch primarily affects training stability and can be chosen within a broad range. Validated across base models and data distributions, our results recast RL scaling laws as prescriptive allocation rules and provide practical guidance for compute-efficient LLM RL post-training.
-    </p>
-  </details>  
-  [<span style="color:#1E90FF;">arXiv</span>](https://arxiv.org/abs/2603.12151)
+
 
 ## Publications {#publications}
 
