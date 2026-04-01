@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 
 ---
-I am a PhD student in the Department of Mathematics at [UC San Diego](https://ucsd.edu/) (since 2023), working on deep learning research at the intersection of theory and algorithm design. My research focuses on understanding representation learning in neural networks, with an emphasis on questions that may inform the design of objectives, architectures, and optimizaters. I am currently working with Prof. [Alex Cloninger](https://sites.google.com/ucsd.edu/alexandercloninger/home), Prof. [Rahul Parhi](https://sparsity.ucsd.edu/rahul/) and Prof. [Yu-Xiang Wang](https://cseweb.ucsd.edu/~yuxiangw/) on this topic. 
+I am a PhD student in the Department of Mathematics at [UC San Diego](https://ucsd.edu/) (since 2023). My research focuses on developing deep learning theory, with an emphasis on questions that may inform the design of objectives, architectures, and optimizers. I am currently working with Prof. [Alex Cloninger](https://sites.google.com/ucsd.edu/alexandercloninger/home), Prof. [Rahul Parhi](https://sparsity.ucsd.edu/rahul/) and Prof. [Yu-Xiang Wang](https://cseweb.ucsd.edu/~yuxiangw/) on this topic. 
 
 Before turning to machine learning, I worked in algebraic topology and algebraic geometry, particularly in motivic homotopy theory. I received both my B.S. and M.S. degrees in Mathematics from [Southern University of Science and Technology](https://www.sustech.edu.cn/en/), where I was advised by Prof. [Yifei Zhu](https://yifeizhu.github.io/).
 
