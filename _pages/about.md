@@ -14,18 +14,17 @@ My research focuses on the factors that shape representation formation in neural
 Papers
 ======
 <span style="color:#00629B; font-weight:600;">
-IsoCompute Playbook: Optimally Scaling Sampling Compute for LLM RL
-</span>  
-Zhoujun Cheng, Yutao Xie, Yuxiao Qu, Amrith Setlur, Shibo Hao, Varad Pimpalkhute, **Tongtong Liang**, Feng Yao, Zhengzhong Liu, Eric Xing, Virginia Smith, Ruslan Salakhutdinov, Zhiting Hu, Taylor Killian, Aviral Kumar  
-*Preprint* · [arXiv](https://arxiv.org/abs/2603.12151)
-<span style="color:#00629B; font-weight:600;">
-
-
-<span style="color:#00629B; font-weight:600;">
-The Inductive Bias of Convolutional Neural Networks: Locality and Weight Sharing Reshape Implicit Regularization
+Does Sparse Connectivity Improve Generalization? Convolutional Networks Below the Edge of Stability
 </span>  
 **Tongtong Liang**, Esha Singh, Rahul Parhi, Alexander Cloninger, Yu-Xiang Wang  
 *Preprint* · [arXiv](https://arxiv.org/abs/2603.04807)
+<span style="color:#00629B; font-weight:600;">
+
+<span style="color:#00629B; font-weight:600;">
+IsoCompute Playbook: Optimally Scaling Sampling Compute for LLM RL
+</span>  
+Zhoujun Cheng, Yutao Xie, Yuxiao Qu, Amrith Setlur, Shibo Hao, Varad Pimpalkhute, **Tongtong Liang**, Feng Yao, Zhengzhong Liu, Eric Xing, Virginia Smith, Ruslan Salakhutdinov, Zhiting Hu, Taylor Killian, Aviral Kumar  
+*ICML 2026* · [arXiv](https://arxiv.org/abs/2603.12151) · [blog](https://compute-optimal-rl-llm-scaling.github.io/)
 <span style="color:#00629B; font-weight:600;">
 
 <span style="color:#00629B; font-weight:600;">  
