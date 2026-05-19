@@ -17,3 +17,6 @@ author_profile: true
 - **Southern University of Science and Technology (SUSTech)** · 2017 – 2021
   - B.S. in Mathematics (Honors)
   - Advised by Prof. [Yifei Zhu](https://yifeizhu.github.io/).
+
+- **Shenzhen Middle School)** · 2014 – 2017
+  - Experimental Curriculum
