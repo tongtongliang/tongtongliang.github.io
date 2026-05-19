@@ -7,9 +7,14 @@ redirect_from:
   - /about.html
 
 ---
-I am a PhD student in the Department of Mathematics at [UC San Diego](https://ucsd.edu/) (since 2023). I am currently working with Prof. [Alex Cloninger](https://sites.google.com/ucsd.edu/alexandercloninger/home), Prof. [Rahul Parhi](https://sparsity.ucsd.edu/rahul/) and Prof. [Yu-Xiang Wang](https://cseweb.ucsd.edu/~yuxiangw/) on deep learning research. Before turning to deep learning, I worked in algebraic topology and algebraic geometry. I received both my B.S. and M.S. degrees in Mathematics from [Southern University of Science and Technology](https://www.sustech.edu.cn/en/), where I was advised by Prof. [Yifei Zhu](https://yifeizhu.github.io/).
+I am a PhD student in the Department of Mathematics at [UC San Diego](https://ucsd.edu/) (since 2023), working with Prof. [Alex Cloninger](https://sites.google.com/ucsd.edu/alexandercloninger/home), Prof. [Rahul Parhi](https://sparsity.ucsd.edu/rahul/), and Prof. [Yu-Xiang Wang](https://cseweb.ucsd.edu/~yuxiangw/) on deep learning research. Before turning to deep learning, I worked in algebraic topology and algebraic geometry. I received both my B.S. and M.S. degrees in Mathematics from [Southern University of Science and Technology](https://www.sustech.edu.cn/en/), where I was advised by Prof. [Yifei Zhu](https://yifeizhu.github.io/).
 
-My research focuses on the factors that shape representation formation in neural network training: **(1) architectural inductive bias, (2) the implicit bias of gradient-based optimization, (3) data- and objective-induced priors, and their interplay**. My recent work develops a predictive framework of how these factors jointly determine which representations emerge and how they generalize in shallow ReLU networks trained with vanilla gradient descent. My long-term goal is to extend this framework to modern neural architectures and optimizers, and to turn that understanding into design principles for deep learning systems.
+My research studies how gradient-based training writes information into neural networks. A central theme in my recent work is that gradient descent naturally induces certain forms of internal representation, and these forms determine whether a network learns reusable structure or memorizes individual samples. Through the lens of dynamical stability, I identified neural shattering: a memorizing representation that emerges during training, where networks fit data through highly sample-specific features. I then studied how data geometry and architecture can suppress or amplify this behavior and change when neural networks generalize.
+
+I am currently extending this viewpoint to modern deep learning systems, including sparse architecture design for vision and generative models, memorization in multimodal generation, and efficient RL post-training for LLM reasoning. Across these projects, I aim to understand how training choices affect what models learn, what they memorize, and how reliably they scale.
+
+My long-term goal is to turn this understanding into design principles for reliable and scalable deep learning systems.
+
 
 Papers
 ======
