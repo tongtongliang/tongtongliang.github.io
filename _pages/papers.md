@@ -8,24 +8,13 @@ mathjax: true
 [Preprints](#preprints) · [Publications](#publications) · [Notes](#notes)
 
 ## Preprints {#preprints}
-- ### <span style="color:#1E90FF; font-weight:bold;">IsoCompute Playbook: Optimally Scaling Sampling Compute for LLM RL</span>  
-  Zhoujun Cheng, Yutao Xie, Yuxiao Qu, Amrith Setlur, Shibo Hao, Varad Pimpalkhute, **Tongtong Liang**, Feng Yao, Zhengzhong Liu, Eric Xing, Virginia Smith, Ruslan Salakhutdinov, Zhiting Hu, Taylor Killian, Aviral Kumar  
-  *Manuscript* · 2026  
-  <details>
-    <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
-    <p style="margin-top: 10px; padding-left: 15px;">
-      While scaling laws guide compute allocation for LLM pre-training, analogous prescriptions for reinforcement learning (RL) post-training of large language models (LLMs) remain poorly understood. We study the compute-optimal allocation of sampling compute for on-policy RL methods in LLMs, framing scaling as a compute-constrained optimization over three resources: parallel rollouts per problem, number of problems per batch, and number of update steps. We find that the compute-optimal number of parallel rollouts per problem increases predictably with compute budget and then saturates. This trend holds across both easy and hard problems, though driven by different mechanisms: solution sharpening on easy problems and coverage expansion on hard problems. We further show that increasing the number of parallel rollouts mitigates interference across problems, while the number of problems per batch primarily affects training stability and can be chosen within a broad range. Validated across base models and data distributions, our results recast RL scaling laws as prescriptive allocation rules and provide practical guidance for compute-efficient LLM RL post-training.
-    </p>
-  </details>  
-  [<span style="color:#1E90FF;">arXiv</span>](https://arxiv.org/abs/2603.12151)
-  
-- ### <span style="color:#1E90FF; font-weight:bold;">The Inductive Bias of Convolutional Neural Networks: Locality and Weight Sharing Reshape Implicit Regularization</span>  
+- ### <span style="color:#1E90FF; font-weight:bold;">Does Sparse Connectivity Improve Generalization? Convolutional Networks Below the Edge of Stability</span>  
   **Tongtong Liang**, Esha Singh, Rahul Parhi, Alexander Cloninger, Yu-Xiang Wang  
   *Manuscript* · 2026  
   <details>
     <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
     <p style="margin-top: 10px; padding-left: 15px;">
-      We study how architectural inductive bias reshapes the implicit regularization induced by the edge-of-stability phenomenon in gradient descent. Prior work has established that for fully connected networks, the strength of this regularization is governed solely by the global input geometry; consequently, it is insufficient to prevent overfitting on difficult distributions such as the high-dimensional sphere. In this paper, we show that locality and weight sharing fundamentally change this picture. Specifically, we prove that provided the receptive field size \(m\) remains small relative to the ambient dimension \(d\), these networks generalize on spherical data with a rate of \(n^{-\frac{1}{6} +O(m/d)}\), a regime where fully connected networks provably fail. This theoretical result confirms that weight sharing couples the learned filters to the low-dimensional patch manifold, thereby bypassing the high dimensionality of the ambient space. We further corroborate our theory by analyzing the patch geometry of natural images, showing that standard convolutional designs induce patch distributions that are highly amenable to this stability mechanism, thus providing a systematic explanation for the superior generalization of convolutional networks over fully connected baselines.
+      Gradient descent on overparameterized neural networks typically operates at the Edge of Stability (EoS), where the largest Hessian eigenvalue hovers around a step-size-dependent threshold. We study how sparse connectivity changes generalization below this threshold in two-layer ReLU networks. Prior results have shown that for fully-connected networks (FCNs), generalization guarantees in this regime degrade and become vacuous on high-dimensional spherical inputs. Our analysis reveals that sparse connectivity fundamentally alters this picture. Under sparse connectivity, the network processes a collection of low-dimensional patches rather than the full input vector, so the effective constraint imposed by the stability condition is governed by the geometry of the training patch collection. We prove that when the receptive fields are small relative to the ambient dimension, the effective constraint yields non-vacuous generalization bounds in precisely the spherical regime where FCNs provably fail. The same framework also reveals a contrasting failure mode: if the patch collection lacks geometric structure, the constraint becomes unable to prevent overfitting. We corroborate this theory by analyzing the patch geometry of natural images, showing that standard convolutional designs produce patch multiset with low-dimensional structure that facilitates generalization. This provides a principled explanation for the generalization advantage of convolutional networks. Thus, our analysis yields a unified framework that identifies how architecture, data geometry, and gradient descent jointly govern generalization performance.
     </p>
   </details>  
   [<span style="color:#1E90FF;">arXiv</span>](https://arxiv.org/abs/2603.04807)
@@ -33,6 +22,16 @@ mathjax: true
 
 
 ## Publications {#publications}
+- ### <span style="color:#1E90FF; font-weight:bold;">IsoCompute Playbook: Optimally Scaling Sampling Compute for LLM RL</span>  
+  Zhoujun Cheng, Yutao Xie, Yuxiao Qu, Amrith Setlur, Shibo Hao, Varad Pimpalkhute, **Tongtong Liang**, Feng Yao, Zhengzhong Liu, Eric Xing, Virginia Smith, Ruslan Salakhutdinov, Zhiting Hu, Taylor Killian, Aviral Kumar  
+  *ICML 2026*
+  <details>
+    <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
+    <p style="margin-top: 10px; padding-left: 15px;">
+      While scaling laws guide compute allocation for LLM pre-training, analogous prescriptions for reinforcement learning (RL) post-training of large language models (LLMs) remain poorly understood. We study the compute-optimal allocation of sampling compute for on-policy RL methods in LLMs, framing scaling as a compute-constrained optimization over three resources: parallel rollouts per problem, number of problems per batch, and number of update steps. We find that the compute-optimal number of parallel rollouts per problem increases predictably with compute budget and then saturates. This trend holds across both easy and hard problems, though driven by different mechanisms: solution sharpening on easy problems and coverage expansion on hard problems. We further show that increasing the number of parallel rollouts mitigates interference across problems, while the number of problems per batch primarily affects training stability and can be chosen within a broad range. Validated across base models and data distributions, our results recast RL scaling laws as prescriptive allocation rules and provide practical guidance for compute-efficient LLM RL post-training.
+    </p>
+  </details>  
+  [<span style="color:#1E90FF;">arXiv</span>](https://arxiv.org/abs/2603.12151)
 
 - ### <span style="color:#1E90FF; font-weight:bold;">Generalization Below the Edge of Stability: The Role of Data Geometry</span>  
   **Tongtong Liang**, Alexander Cloninger, Rahul Parhi, Yu-Xiang Wang  
