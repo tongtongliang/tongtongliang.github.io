@@ -9,12 +9,9 @@ redirect_from:
 ---
 I am a PhD student in the Department of Mathematics at [UC San Diego](https://ucsd.edu/) (since 2023), working with Prof. [Alex Cloninger](https://sites.google.com/ucsd.edu/alexandercloninger/home), Prof. [Rahul Parhi](https://sparsity.ucsd.edu/rahul/), and Prof. [Yu-Xiang Wang](https://cseweb.ucsd.edu/~yuxiangw/) on deep learning research. Before turning to deep learning, I worked in algebraic topology and algebraic geometry. I received both my B.S. and M.S. degrees in Mathematics from [Southern University of Science and Technology](https://www.sustech.edu.cn/en/), where I was advised by Prof. [Yifei Zhu](https://yifeizhu.github.io/).
 
-My research studies how gradient-based training writes information into neural networks. A central theme in my recent work is that gradient descent naturally induces certain forms of internal representation, and these forms determine whether a network learns reusable structure or memorizes individual samples. Through the lens of dynamical stability, I identified neural shattering: a memorizing representation that emerges during training, where networks fit data through highly sample-specific features. I then studied how data geometry and architecture can suppress or amplify this behavior and change when neural networks generalize.
+My research studies how gradient-based training writes information into neural networks. A central theme in my recent work is that gradient descent naturally induces certain forms of internal representation, and these forms determine whether a network learns reusable structure or memorizes individual samples. Through the lens of dynamical stability, I identified [neural shattering](https://arxiv.org/abs/2506.20779): a memorizing representation that emerges during training, where networks fit data through highly sample-specific features. I then studied how [data geometry](https://arxiv.org/abs/2510.18120) and [architecture](https://arxiv.org/abs/2603.04807) can suppress or amplify this behavior.
 
-I am currently extending this viewpoint to modern deep learning systems, including sparse architecture design for vision and generative models, memorization in multimodal generation, and efficient RL post-training for LLM reasoning. Across these projects, I aim to understand how training choices affect what models learn, what they memorize, and how reliably they scale.
-
-My long-term goal is to turn this understanding into design principles for reliable and scalable deep learning systems.
-
+I am currently extending this viewpoint to modern deep learning systems, including sparse architecture design for vision models and memorization in multimodal generation.
 
 Papers
 ======
