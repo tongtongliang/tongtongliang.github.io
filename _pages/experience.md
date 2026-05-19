@@ -18,5 +18,5 @@ author_profile: true
   - B.S. in Mathematics (Honors)
   - Advised by Prof. [Yifei Zhu](https://yifeizhu.github.io/).
 
-- **Shenzhen Middle School)** · 2014 – 2017
+- **Shenzhen Middle School** · 2014 – 2017
   - Experimental Curriculum
