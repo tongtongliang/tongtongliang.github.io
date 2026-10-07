@@ -1,0 +1,12 @@
+{% assign paper = include.paper %}
+<div class="paper-entry">
+  {% if include.detailed %}<h3>{% else %}<p>{% endif %}<span style="color:{% if include.detailed %}#1E90FF{% else %}#00629B{% endif %}; font-weight:600;">{{ paper.title | escape }}</span>{% if include.detailed %}</h3>{% else %}<br />{% endif %}
+  {% if include.detailed %}<p>{% endif %}{{ paper.authors | markdownify | remove: '<p>' | remove: '</p>' }}<br />
+  <em>{{ paper.venue | escape }}</em>{% if paper.spotlight %} <span style="color:#C69214;">Spotlight</span>{% endif %}{% for link in paper.links %} · <a href="{{ link.url }}">{{ link.label | escape }}</a>{% endfor %}</p>
+  {% if include.detailed and paper.abstract %}
+  <details>
+    <summary style="font-weight:bold; color:#0073e6; cursor:pointer;">Abstract</summary>
+    <p style="margin-top:10px; padding-left:15px;">{{ paper.abstract }}</p>
+  </details>
+  {% endif %}
+</div>
